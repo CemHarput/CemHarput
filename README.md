@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/CemHarput](https://github.com/CemHarput)
 
-- 💬 Ask me about **Java,Spring,Go**
+- 💬 Ask me about **Java,Spring**
 
 - 📫 How to reach me **cemharput@gmail.com**
 
