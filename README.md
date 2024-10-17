@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cem Harputoglu</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
-- 🌱 I’m currently learning **Angular and .NET**
+- 🌱 I’m currently learning **React Native and Nodejs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/CemHarput](https://github.com/CemHarput)
 
