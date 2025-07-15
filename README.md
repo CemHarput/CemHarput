@@ -67,3 +67,9 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cemharput&theme=dark" alt="GitHub Streak" />
 </p>
+
+### 🏆 GitHub Profile Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=cemharput&theme=tokyonight&column=7&margin-w=10&margin-h=15" alt="github-trophies" />
+</p>
