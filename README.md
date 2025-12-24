@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React Native** and **Node.js**
 - 👨‍💻 All of my projects are available at [github.com/CemHarput](https://github.com/CemHarput)
-- 💬 Ask me about **Java** and **Spring Boot**
+- 💬 Ask me about **Java** and **Python**
 - 📫 How to reach me: **cemharput@gmail.com**
 - 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/cem-harputoglu-aa638b1aa/)
 
