@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cem Harputoglu</h1>
-<h3 align="center">Backend Engineer • AI Systems • Technical Lead</h3>
+<h3 align="center">Backend Engineer • AI Systems </h3>
 
----
 
 ## 🚀 About Me
 
