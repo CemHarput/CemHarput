@@ -13,17 +13,6 @@
 
 ---
 
-## 🧩 Key Impact
-
-- 📈 Improved AI response relevance by **35–45%**
-- 💰 Reduced unnecessary LLM calls by **25–40%**
-- 🎯 Increased answer accuracy via RAG by **~40%**
-- ☁️ Achieved **99.9% production availability**
-- 🔧 Reduced deployment errors by **50%** with Terraform
-- 🐛 Decreased backend bugs by **30–35%** via CI/CD
-
----
-
 ## 🧠 AI & LLM Systems
 
 - LLM Orchestration
@@ -63,23 +52,6 @@
 - MSSQL
 - DynamoDB
 - Redis
-
----
-
-## 📱 Selected Projects
-
-### 🌿 PlantC — Plant Identification System
-
-- AI-powered mobile plant recognition
-- Custom-trained TensorFlow model
-- Python + Flask backend
-- Swift & Kotlin mobile apps
-
-### 🏋️ SportEnroll — Gym Management Platform
-
-- React Native + TypeScript
-- Supabase backend
-- Real-time scheduling & notifications
 
 ---
 
