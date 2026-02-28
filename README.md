@@ -1,75 +1,102 @@
 <h1 align="center">Hi 👋, I'm Cem Harputoglu</h1>
-<h3 align="center">A passionate backend developer from Turkey</h3>
-
-- 🌱 I’m currently learning **React Native** and **Fast Api**
-- 👨‍💻 All of my projects are available at [github.com/CemHarput](https://github.com/CemHarput)
-- 💬 Ask me about **Java** and **Python**
-- 📫 How to reach me: **cemharput@gmail.com**
-- 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/cem-harputoglu-aa638b1aa/)
+<h3 align="center">Backend Engineer • AI Systems • Technical Lead</h3>
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/cem-harputoglu-aa638b1aa/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" />
-  </a>
-</p>
+## 🚀 About Me
+
+- 🧠 Backend Engineer specializing in **LLM-powered systems & scalable APIs**
+- ⚙️ Built production **Chat Orchestrator + RAG pipelines**
+- ☁️ Designing highly available systems on **AWS**
+- 👨‍🏫 Mentoring engineers & leading backend architecture decisions
+- 📍 Ankara, Turkey
 
 ---
 
-### 🛠️ Languages and Tools:
+## 🧩 Key Impact
 
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.jenkins.io" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
-  </a>
-  <a href="https://kafka.apache.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/>
-  </a>
-</p>
+- 📈 Improved AI response relevance by **35–45%**
+- 💰 Reduced unnecessary LLM calls by **25–40%**
+- 🎯 Increased answer accuracy via RAG by **~40%**
+- ☁️ Achieved **99.9% production availability**
+- 🔧 Reduced deployment errors by **50%** with Terraform
+- 🐛 Decreased backend bugs by **30–35%** via CI/CD
 
 ---
 
-### 📊 GitHub Stats
+## 🧠 AI & LLM Systems
+
+- LLM Orchestration
+- RAG (Vector Search + Prompt Enrichment)
+- AI Safety & Classification
+- LLM Routing & Cost Optimization
+
+---
+
+## 🛠️ Backend & Cloud
+
+**Languages**
+
+- Java (Spring Boot)
+- Python (FastAPI)
+- C# (.NET)
+
+**Architecture**
+
+- Microservices
+- Clean Architecture
+- Distributed Systems
+- RESTful APIs
+
+**Cloud & DevOps**
+
+- AWS (ECS, ECR, RDS, Lambda, S3, SQS)
+- Terraform (IaC)
+- Docker
+- GitHub Actions
+- Jenkins
+- CI/CD Pipelines
+
+**Databases**
+
+- PostgreSQL
+- MSSQL
+- DynamoDB
+- Redis
+
+---
+
+## 📱 Selected Projects
+
+### 🌿 PlantC — Plant Identification System
+
+- AI-powered mobile plant recognition
+- Custom-trained TensorFlow model
+- Python + Flask backend
+- Swift & Kotlin mobile apps
+
+### 🏋️ SportEnroll — Gym Management Platform
+
+- React Native + TypeScript
+- Supabase backend
+- Real-time scheduling & notifications
+
+---
+
+## 📫 Connect with Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/cem-harputoglu-aa638b1aa/
+- 📧 Email: cemharput@gmail.com
+- 💻 GitHub: https://github.com/CemHarput
+
+---
+
+## 📊 GitHub Stats
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cemharput&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Most Used Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cemharput&show_icons=true&theme=tokyonight&layout=compact" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cemharput&theme=dark" alt="GitHub Streak" />
-</p>
-
-### 🏆 GitHub Profile Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cemharput&theme=tokyonight&column=7&margin-w=10&margin-h=15" alt="github-trophies" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cemharput&theme=dark" />
 </p>
