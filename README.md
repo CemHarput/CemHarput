@@ -10,16 +10,12 @@
 - 👨‍🏫 Mentoring engineers & leading backend architecture decisions
 - 📍 Ankara, Turkey
 
----
-
 ## 🧠 AI & LLM Systems
 
 - LLM Orchestration
 - RAG (Vector Search + Prompt Enrichment)
 - AI Safety & Classification
 - LLM Routing & Cost Optimization
-
----
 
 ## 🛠️ Backend & Cloud
 
@@ -52,15 +48,11 @@
 - DynamoDB
 - Redis
 
----
-
 ## 📫 Connect with Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/cem-harputoglu-aa638b1aa/
 - 📧 Email: cemharput@gmail.com
 - 💻 GitHub: https://github.com/CemHarput
-
----
 
 ## 📊 GitHub Stats
 
