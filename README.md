@@ -5,17 +5,6 @@
 ## 🚀 About Me
 
 - 🧠 Backend Engineer specializing in **LLM-powered systems & scalable APIs**
-- ⚙️ Built production **Chat Orchestrator + RAG pipelines**
-- ☁️ Designing highly available systems on **AWS**
-- 👨‍🏫 Mentoring engineers & leading backend architecture decisions
-- 📍 Ankara, Turkey
-
-## 🧠 AI & LLM Systems
-
-- LLM Orchestration
-- RAG (Vector Search + Prompt Enrichment)
-- AI Safety & Classification
-- LLM Routing & Cost Optimization
 
 ## 🛠️ Backend & Cloud
 
