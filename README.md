@@ -12,7 +12,6 @@
 
 - Java (Spring Boot)
 - Python (FastAPI)
-- C# (.NET)
 
 **Architecture**
 
