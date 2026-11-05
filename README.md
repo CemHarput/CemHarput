@@ -66,7 +66,7 @@
 **Cloud & Delivery**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&amp;logoColor=white" alt="AWS" />
+  <img src="https://custom-icon-badges.demolab.com/badge/AWS-FF9900?style=for-the-badge&amp;logo=aws&amp;logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&amp;logo=terraform&amp;logoColor=white" alt="Terraform" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&amp;logo=githubactions&amp;logoColor=white" alt="GitHub Actions" />
